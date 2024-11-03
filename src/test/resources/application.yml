@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-security-testing
+  security:
+    user:
+      name: alice
+      password: alice
